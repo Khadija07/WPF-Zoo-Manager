@@ -1,0 +1,15 @@
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo.csproj.AssemblyReference.cache
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\MainWindow.g.cs
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\App.g.cs
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo_MarkupCompile.cache
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo_MarkupCompile.lref
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\bin\Debug\WPFZoo.exe.config
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\bin\Debug\WPFZoo.exe
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\bin\Debug\WPFZoo.pdb
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\MainWindow.baml
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo.g.resources
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo.Properties.Resources.resources
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo.csproj.GenerateResource.cache
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo.csproj.CoreCompileInputs.cache
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo.exe
+C:\Users\Khadijtul Kobra\source\repos\WPFZoo\WPFZoo\obj\Debug\WPFZoo.pdb
