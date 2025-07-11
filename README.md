@@ -19,3 +19,13 @@
 - **WPF (Windows Presentation Foundation)**
 - **C# / .NET**
 - **SQL Server**
+
+## Configure Database
+
+ Run the included SQL script in /SQLQuery.sql to create the necessary tables:
+
+- Zoo
+
+- Animal
+
+- AnimalZoo
